@@ -5,6 +5,7 @@ body {
 }
 p {
 	color: lightgray;
+	font-size: 1.3rem;
 }
 /*********History of Evything Area************/
 /* History Area */
@@ -31,15 +32,23 @@ p {
 	background-color: hsl(233, 100%, 69%);
 	color: #fff;
 }
-/*******************************************/
+
+/***************Keep Track Area **********/
 .Track-Heading {
 	font-size: 2.5rem;
 }
 .computer-mac {
 	width: 100%;
 }
-
-/********* Keep Track of Your snippets area********/
+.Track-message {
+	text-align: left;
+	padding-left: 100px;
+	margin-top: 30px;
+	/* font-size: 1.3rem; */
+}
+.Track-features {
+	margin-top: 50px;
+}
 
 /* Footer Area */
 .attribution {
